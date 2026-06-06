@@ -1,0 +1,15 @@
+{
+  "defaultProvider": "volcano-ark",
+  "defaultModel": "deepseek-v4-pro",
+  "defaultThinkingLevel": "high",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:context-mode",
+    "npm:pi-subagents",
+    "npm:pi-mcp-adapter",
+    "npm:pi-lens",
+    "npm:pi-ask-user",
+    "npm:pi-zhihu-search@1.0.2",
+    "git:github.com/mattpocock/skills"
+  ]
+}

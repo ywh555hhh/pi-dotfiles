@@ -1,0 +1,10 @@
+{
+  "name": "my-pi-dotfiles",
+  "version": "1.0.0",
+  "description": "Personal pi coding-agent skills, agents, and config (cross-machine sync).",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
